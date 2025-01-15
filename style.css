@@ -1,4 +1,7 @@
+thead> tr> td {
+    background-color:aqua;
+}
 
-table {
-    background-color: aqua;
+tbody{
+    background-color:lightgray;
 }
